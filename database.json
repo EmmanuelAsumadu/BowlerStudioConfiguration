@@ -19,6 +19,10 @@
     "https://github.com/EmmanuelAsumadu/javaCad_EmmanuelAsumadu.git": [
       "https://github.com/EmmanuelAsumadu/javaCad_EmmanuelAsumadu.git",
       "1673120813310"
+    ],
+    "https://github.com/EmmanuelAsumadu/sphere_EmmanuelAsumadu.git": [
+      "https://github.com/EmmanuelAsumadu/sphere_EmmanuelAsumadu.git",
+      "1673121583621"
     ]
   },
   "studio-open-web": {},
@@ -30,6 +34,10 @@
     "https://github.com/EmmanuelAsumadu/helloWorld_EmmanuelAsumadu.git:helloWorld.groovy": [
       "https://github.com/EmmanuelAsumadu/helloWorld_EmmanuelAsumadu.git",
       "helloWorld.groovy"
+    ],
+    "https://github.com/EmmanuelAsumadu/sphere_EmmanuelAsumadu.git:sphere.groovy": [
+      "https://github.com/EmmanuelAsumadu/sphere_EmmanuelAsumadu.git",
+      "sphere.groovy"
     ],
     "https://github.com/EmmanuelAsumadu/cube_EmmanuelAsumadu.git:cube.groovy": [
       "https://github.com/EmmanuelAsumadu/cube_EmmanuelAsumadu.git",
