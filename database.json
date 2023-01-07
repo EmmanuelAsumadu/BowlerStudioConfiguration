@@ -12,6 +12,10 @@
       "https://github.com/EmmanuelAsumadu/cylinder_EmmanuelAsumadu.git",
       "1673121794041"
     ],
+    "https://github.com/EmmanuelAsumadu/triangles_EmmanuelAsumadu.git": [
+      "https://github.com/EmmanuelAsumadu/triangles_EmmanuelAsumadu.git",
+      "1673123280873"
+    ],
     "https://github.com/EmmanuelAsumadu/cube_EmmanuelAsumadu.git": [
       "https://github.com/EmmanuelAsumadu/cube_EmmanuelAsumadu.git",
       "1673120948044"
@@ -54,6 +58,10 @@
     "https://github.com/EmmanuelAsumadu/NamedSolids_EmmanuelAsumadu.git:NamedSolids.groovy": [
       "https://github.com/EmmanuelAsumadu/NamedSolids_EmmanuelAsumadu.git",
       "NamedSolids.groovy"
+    ],
+    "https://github.com/EmmanuelAsumadu/triangles_EmmanuelAsumadu.git:triangles.groovy": [
+      "https://github.com/EmmanuelAsumadu/triangles_EmmanuelAsumadu.git",
+      "triangles.groovy"
     ],
     "https://github.com/EmmanuelAsumadu/extrudePolygon_EmmanuelAsumadu.git:extrudePolygon.groovy": [
       "https://github.com/EmmanuelAsumadu/extrudePolygon_EmmanuelAsumadu.git",
