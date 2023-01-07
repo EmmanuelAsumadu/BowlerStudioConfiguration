@@ -66,6 +66,10 @@
     "https://github.com/EmmanuelAsumadu/extrudePolygon_EmmanuelAsumadu.git:extrudePolygon.groovy": [
       "https://github.com/EmmanuelAsumadu/extrudePolygon_EmmanuelAsumadu.git",
       "extrudePolygon.groovy"
+    ],
+    "https://github.com/EmmanuelAsumadu/firefightingrobot.git:Opencylender.groovy": [
+      "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
+      "Opencylender.groovy"
     ]
   },
   "BowlerStudioConfigs": {
