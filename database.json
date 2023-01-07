@@ -32,6 +32,10 @@
       "https://github.com/EmmanuelAsumadu/sphere_EmmanuelAsumadu.git",
       "1673121583621"
     ],
+    "https://github.com/EmmanuelAsumadu/NamedSolids_EmmanuelAsumadu.git": [
+      "https://github.com/EmmanuelAsumadu/NamedSolids_EmmanuelAsumadu.git",
+      "1673122995696"
+    ],
     "https://github.com/EmmanuelAsumadu/extrudePolygon_EmmanuelAsumadu.git": [
       "https://github.com/EmmanuelAsumadu/extrudePolygon_EmmanuelAsumadu.git",
       "1673122788679"
@@ -47,33 +51,13 @@
       "https://github.com/EmmanuelAsumadu/CamferedCylinder_EmmanuelAsumadu.git",
       "CamferedCylinder.groovy"
     ],
-    "https://github.com/EmmanuelAsumadu/RoundedCylinderTest_EmmanuelAsumadu.git:RoundedCylinderTest.groovy": [
-      "https://github.com/EmmanuelAsumadu/RoundedCylinderTest_EmmanuelAsumadu.git",
-      "RoundedCylinderTest.groovy"
-    ],
-    "https://github.com/EmmanuelAsumadu/javaCad_EmmanuelAsumadu.git:javaCad.groovy": [
-      "https://github.com/EmmanuelAsumadu/javaCad_EmmanuelAsumadu.git",
-      "javaCad.groovy"
-    ],
-    "https://github.com/EmmanuelAsumadu/helloWorld_EmmanuelAsumadu.git:helloWorld.groovy": [
-      "https://github.com/EmmanuelAsumadu/helloWorld_EmmanuelAsumadu.git",
-      "helloWorld.groovy"
+    "https://github.com/EmmanuelAsumadu/NamedSolids_EmmanuelAsumadu.git:NamedSolids.groovy": [
+      "https://github.com/EmmanuelAsumadu/NamedSolids_EmmanuelAsumadu.git",
+      "NamedSolids.groovy"
     ],
     "https://github.com/EmmanuelAsumadu/extrudePolygon_EmmanuelAsumadu.git:extrudePolygon.groovy": [
       "https://github.com/EmmanuelAsumadu/extrudePolygon_EmmanuelAsumadu.git",
       "extrudePolygon.groovy"
-    ],
-    "https://github.com/EmmanuelAsumadu/cylinder_EmmanuelAsumadu.git:cylinder.groovy": [
-      "https://github.com/EmmanuelAsumadu/cylinder_EmmanuelAsumadu.git",
-      "cylinder.groovy"
-    ],
-    "https://github.com/EmmanuelAsumadu/cube_EmmanuelAsumadu.git:cube.groovy": [
-      "https://github.com/EmmanuelAsumadu/cube_EmmanuelAsumadu.git",
-      "cube.groovy"
-    ],
-    "https://github.com/EmmanuelAsumadu/ChamferedParts_EmmanuelAsumadu.git:ChamferedParts.groovy": [
-      "https://github.com/EmmanuelAsumadu/ChamferedParts_EmmanuelAsumadu.git",
-      "ChamferedParts.groovy"
     ]
   },
   "BowlerStudioConfigs": {
