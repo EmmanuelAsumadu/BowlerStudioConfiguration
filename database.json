@@ -3,10 +3,18 @@
     "https://github.com/EmmanuelAsumadu/helloWorld_EmmanuelAsumadu.git": [
       "https://github.com/EmmanuelAsumadu/helloWorld_EmmanuelAsumadu.git",
       "1673119950502"
+    ],
+    "https://github.com/EmmanuelAsumadu/javaCad_EmmanuelAsumadu.git": [
+      "https://github.com/EmmanuelAsumadu/javaCad_EmmanuelAsumadu.git",
+      "1673120813310"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/EmmanuelAsumadu/javaCad_EmmanuelAsumadu.git:javaCad.groovy": [
+      "https://github.com/EmmanuelAsumadu/javaCad_EmmanuelAsumadu.git",
+      "javaCad.groovy"
+    ],
     "https://github.com/EmmanuelAsumadu/helloWorld_EmmanuelAsumadu.git:helloWorld.groovy": [
       "https://github.com/EmmanuelAsumadu/helloWorld_EmmanuelAsumadu.git",
       "helloWorld.groovy"
