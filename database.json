@@ -71,6 +71,10 @@
       "https://github.com/EmmanuelAsumadu/triangles_EmmanuelAsumadu.git",
       "triangles.groovy"
     ],
+    "https://github.com/EmmanuelAsumadu/IRcam.git:IRcam.ino": [
+      "https://github.com/EmmanuelAsumadu/IRcam.git",
+      "IRcam.ino"
+    ],
     "https://github.com/EmmanuelAsumadu/extrudePolygon_EmmanuelAsumadu.git:extrudePolygon.groovy": [
       "https://github.com/EmmanuelAsumadu/extrudePolygon_EmmanuelAsumadu.git",
       "extrudePolygon.groovy"
