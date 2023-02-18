@@ -67,10 +67,6 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/EmmanuelAsumadu/NamedSolids_EmmanuelAsumadu.git:NamedSolids.groovy": [
-      "https://github.com/EmmanuelAsumadu/NamedSolids_EmmanuelAsumadu.git",
-      "NamedSolids.groovy"
-    ],
     "https://github.com/EmmanuelAsumadu/triangles_EmmanuelAsumadu.git:triangles.groovy": [
       "https://github.com/EmmanuelAsumadu/triangles_EmmanuelAsumadu.git",
       "triangles.groovy"
