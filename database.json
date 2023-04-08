@@ -79,6 +79,10 @@
       "https://github.com/EmmanuelAsumadu/IRcam.git",
       "IRcam.ino"
     ],
+    "https://github.com/EmmanuelAsumadu/FirmWareForIRCamAndLED.git:FirmWareForIRCamAndLED.ino": [
+      "https://github.com/EmmanuelAsumadu/FirmWareForIRCamAndLED.git",
+      "FirmWareForIRCamAndLED.ino"
+    ],
     "https://github.com/EmmanuelAsumadu/firefightingrobot.git:CALCULATE AIR PRESSURE.groovy": [
       "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
       "CALCULATE AIR PRESSURE.groovy"
