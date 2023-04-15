@@ -70,6 +70,9 @@
     ]
   },
   "studio-open-web": {},
+  "MenueSettings": {
+    "printCSG": true
+  },
   "studio-open-git": {
     "https://github.com/EmmanuelAsumadu/triangles_EmmanuelAsumadu.git:triangles.groovy": [
       "https://github.com/EmmanuelAsumadu/triangles_EmmanuelAsumadu.git",
