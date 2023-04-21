@@ -101,6 +101,10 @@
     "https://github.com/EmmanuelAsumadu/firefightingrobot.git:sensors used for firefighting robot.groovy": [
       "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
       "sensors used for firefighting robot.groovy"
+    ],
+    "https://github.com/EmmanuelAsumadu/firefightingrobot.git:Opencylender.groovy": [
+      "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
+      "Opencylender.groovy"
     ]
   },
   "BowlerStudioConfigs": {
