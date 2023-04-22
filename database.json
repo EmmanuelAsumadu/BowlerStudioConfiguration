@@ -94,9 +94,9 @@
       "https://github.com/EmmanuelAsumadu/FirmWareForIRCamAndLED.git",
       "FirmWareForIRCamAndLED.ino"
     ],
-    "https://github.com/EmmanuelAsumadu/firefightingrobot.git:CALCULATE AIR PRESSURE.groovy": [
+    "https://github.com/EmmanuelAsumadu/firefightingrobot.git:calculateAirPressure.groovy": [
       "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
-      "CALCULATE AIR PRESSURE.groovy"
+      "calculateAirPressure.groovy"
     ],
     "https://github.com/EmmanuelAsumadu/firefightingrobot.git:sensors used for firefighting robot.groovy": [
       "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
@@ -105,6 +105,10 @@
     "https://github.com/EmmanuelAsumadu/firefightingrobot.git:Opencylender.groovy": [
       "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
       "Opencylender.groovy"
+    ],
+    "https://github.com/EmmanuelAsumadu/firefightingrobot.git:CALCULATE AIR PRESSURE.groovy": [
+      "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
+      "CALCULATE AIR PRESSURE.groovy"
     ]
   },
   "BowlerStudioConfigs": {
