@@ -78,10 +78,6 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/EmmanuelAsumadu/triangles_EmmanuelAsumadu.git:triangles.groovy": [
-      "https://github.com/EmmanuelAsumadu/triangles_EmmanuelAsumadu.git",
-      "triangles.groovy"
-    ],
     "https://github.com/EmmanuelAsumadu/servo.git:servo.ino": [
       "https://github.com/EmmanuelAsumadu/servo.git",
       "servo.ino"
@@ -105,10 +101,6 @@
     "https://github.com/EmmanuelAsumadu/firefightingrobot.git:Opencylender.groovy": [
       "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
       "Opencylender.groovy"
-    ],
-    "https://github.com/EmmanuelAsumadu/firefightingrobot.git:CALCULATE AIR PRESSURE.groovy": [
-      "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
-      "CALCULATE AIR PRESSURE.groovy"
     ]
   },
   "BowlerStudioConfigs": {
