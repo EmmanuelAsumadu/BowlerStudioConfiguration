@@ -98,6 +98,10 @@
       "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
       "calculateAirPressure.groovy"
     ],
+    "https://github.com/EmmanuelAsumadu/firefightingrobot.git:HardwareForSonicHope.groovy": [
+      "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
+      "HardwareForSonicHope.groovy"
+    ],
     "https://github.com/EmmanuelAsumadu/firefightingrobot.git:Opencylender.groovy": [
       "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
       "Opencylender.groovy"
