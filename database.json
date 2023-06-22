@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1687452623201"
+    ],
     "https://github.com/EmmanuelAsumadu/CamferedCylinder_EmmanuelAsumadu.git": [
       "https://github.com/EmmanuelAsumadu/CamferedCylinder_EmmanuelAsumadu.git",
       "1673122198456"
@@ -63,10 +67,6 @@
     "https://github.com/EmmanuelAsumadu/cube_EmmanuelAsumadu.git": [
       "https://github.com/EmmanuelAsumadu/cube_EmmanuelAsumadu.git",
       "1673120948044"
-    ],
-    "https://github.com/EmmanuelAsumadu/helloWorld_EmmanuelAsumadu.git": [
-      "https://github.com/EmmanuelAsumadu/helloWorld_EmmanuelAsumadu.git",
-      "1673119950502"
     ],
     "https://github.com/EmmanuelAsumadu/javaCad_EmmanuelAsumadu.git": [
       "https://github.com/EmmanuelAsumadu/javaCad_EmmanuelAsumadu.git",
