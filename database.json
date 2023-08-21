@@ -8,6 +8,10 @@
       "https://github.com/EmmanuelAsumadu/CamferedCylinder_EmmanuelAsumadu.git",
       "1673122198456"
     ],
+    "https://github.com/EmmanuelAsumadu/ParabolaTest_EmmanuelAsumadu.git": [
+      "https://github.com/EmmanuelAsumadu/ParabolaTest_EmmanuelAsumadu.git",
+      "1692587999045"
+    ],
     "https://github.com/EmmanuelAsumadu/cylinder_EmmanuelAsumadu.git": [
       "https://github.com/EmmanuelAsumadu/cylinder_EmmanuelAsumadu.git",
       "1673121794041"
@@ -68,10 +72,6 @@
       "https://github.com/EmmanuelAsumadu/cube_EmmanuelAsumadu.git",
       "1673120948044"
     ],
-    "https://github.com/EmmanuelAsumadu/javaCad_EmmanuelAsumadu.git": [
-      "https://github.com/EmmanuelAsumadu/javaCad_EmmanuelAsumadu.git",
-      "1673120813310"
-    ],
     "https://github.com/EmmanuelAsumadu/sphere_EmmanuelAsumadu.git": [
       "https://github.com/EmmanuelAsumadu/sphere_EmmanuelAsumadu.git",
       "1673121583621"
@@ -113,6 +113,10 @@
     "https://github.com/EmmanuelAsumadu/firefightingrobot.git:Opencylender.groovy": [
       "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
       "Opencylender.groovy"
+    ],
+    "https://github.com/EmmanuelAsumadu/ParabolaTest_EmmanuelAsumadu.git:ParabolaTest.groovy": [
+      "https://github.com/EmmanuelAsumadu/ParabolaTest_EmmanuelAsumadu.git",
+      "ParabolaTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
