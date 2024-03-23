@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1711219409156"
+    ],
     "https://github.com/EmmanuelAsumadu/CamferedCylinder_EmmanuelAsumadu.git": [
       "https://github.com/EmmanuelAsumadu/CamferedCylinder_EmmanuelAsumadu.git",
       "1673122198456"
@@ -67,10 +71,6 @@
     "https://github.com/EmmanuelAsumadu/printableFigits.git": [
       "EmmanuelAsumadu/printableFigits",
       "1711219223421"
-    ],
-    "https://github.com/EmmanuelAsumadu/cube_EmmanuelAsumadu.git": [
-      "https://github.com/EmmanuelAsumadu/cube_EmmanuelAsumadu.git",
-      "1673120948044"
     ],
     "https://github.com/EmmanuelAsumadu/sphere_EmmanuelAsumadu.git": [
       "https://github.com/EmmanuelAsumadu/sphere_EmmanuelAsumadu.git",
