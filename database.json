@@ -90,10 +90,6 @@
       "https://github.com/EmmanuelAsumadu/FirmWareForIRCamAndLED.git",
       "FirmWareForIRCamAndLED.ino"
     ],
-    "https://github.com/EmmanuelAsumadu/difference_EmmanuelAsumadu.git:difference.groovy": [
-      "https://github.com/EmmanuelAsumadu/difference_EmmanuelAsumadu.git",
-      "difference.groovy"
-    ],
     "https://github.com/EmmanuelAsumadu/firefightingrobot.git:calculateAirPressure.groovy": [
       "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
       "calculateAirPressure.groovy"
